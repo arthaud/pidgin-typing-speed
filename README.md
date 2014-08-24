@@ -8,6 +8,6 @@ Just run `python pidgin-typing-speed.py`
 dependencies
 ------------
 
-python (tested under python 3, should work with python 2)
-python-dbus
-python-gobject
+* python (tested under python 3, should work with python 2)
+* python-dbus
+* python-gobject
